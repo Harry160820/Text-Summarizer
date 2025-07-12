@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Harry160820/Text-Summarizer
+Author: Harry160820
+Author-email: Harry160820
+Project-URL: Bug Tracker, https://github.com/Harry160820/Text-Summarizer/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Text Summarizer
+This is a Python package for summarizing text using NLP techniques.
